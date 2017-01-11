@@ -1,0 +1,11 @@
+*.pyc
+*.log
+/bin/
+/include/
+/lib/
+.tox/
+.cache
+dist/*
+*#*
+__pycache__/
+build/
