@@ -26,7 +26,7 @@ lossh remove_user
 
 # View how you can be accessed
 lossh ls # outputs
-user="lossh0" port=52222 ssh_key=AAAAB3NzaC ..... joCyayMg+d account="pascal@T510"
+user="lossh0" port=52222 ssh_key=AAAAB3NzaC ..... joCyayMg+d account="saumil@SaumilPC"
 
 # Create specific user+port combination (don't forget to share this info with buddy)
 # And don't forget the quotes
